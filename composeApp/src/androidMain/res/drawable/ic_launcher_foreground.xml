@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stín pod 3D skládačkou v bezpečné zóně 66x66 (21..87) -->
+    <path
+        android:fillColor="#44000000"
+        android:pathData="M28,77 L54,83 L80,77 L80,81 L54,86 L28,81 Z" />
+    <!-- Levé křídlo šasi -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M26,31 L52,26 L52,76 L26,71 Z" />
+    <!-- Pravé křídlo šasi -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M56,26 L82,31 L82,71 L56,76 Z" />
+    <!-- Levý svítící displej -->
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M29,34 L51,29.5 L51,72.5 L29,68 Z" />
+    <!-- Pravý svítící displej -->
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M57,29.5 L79,34 L79,68 L57,72.5 Z" />
+    <!-- Lesklý odlesk levého panelu -->
+    <path
+        android:fillColor="#55FFFFFF"
+        android:pathData="M29,34 L51,29.5 L51,45 L29,49 Z" />
+    <!-- Lesklý odlesk pravého panelu -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M57,29.5 L79,34 L79,47 L57,43 Z" />
+    <!-- Středový 3D kovový pant -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M52,25 L56,25 L56,77 L52,77 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M53,26 L55,26 L55,40 L53,40 Z" />
+</vector>
